@@ -1,3 +1,5 @@
+#Programa sencillo. Esto es una prueba.
+
 def TablabinHex(cuatro_digitos_binarios):
     digito_hexadecimal = ""
     if cuatro_digitos_binarios == "0000":
